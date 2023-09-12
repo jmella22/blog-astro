@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi segundo post en el blog
-author: Astro alumno
+author: Jose Mella - Astro alumno
 description: "Después de aprender un poco de Astro, ¡no podía parar!"
 image:
   url: "https://docs.astro.build/assets/arc.webp"
   alt: "Miniatura de los arcos de Astro."
-pubDate: 2022-07-08
+pubDate: 2023-08-30
 tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
 

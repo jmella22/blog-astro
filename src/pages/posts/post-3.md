@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: Mi tercer post en el blog
-author: Astro alumno
+author: Jose Mella - Astro alumno
 description: "Tuve algunos problemas, pero preguntar en la comunidad me ayudó mucho."
 image:
   url: "https://docs.astro.build/assets/rays.webp"
   alt: "Miniatura de los rayos de Astro."
-pubDate: 2022-07-15
+pubDate: 2023-08-30
 tags: ["astro", "aprender en público", "contratiempos", "comunidad"]
 ---
 
